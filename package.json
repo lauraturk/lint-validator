@@ -1,0 +1,22 @@
+{
+  "name": "lint-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "install.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauraturk/lint-validator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauraturk/lint-validator/issues"
+  },
+  "homepage": "https://github.com/lauraturk/lint-validator#readme",
+  "dependencies": {
+    "git-validate": "^2.2.2"
+  }
+}
