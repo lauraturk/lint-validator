@@ -1,10 +1,9 @@
 {
   "node": true,
-
   "asi" : true,
   "curly": false,
   "globals": {
-    "fetch": false
+    "fetch": false,
   },
   "esversion": 6,
   "latedef": true,
@@ -12,7 +11,6 @@
   "undef": true,
   "unused": false,
   "trailing": true,
-  "jquery": true,
   "mocha": true,
   "browser" : true,
   "regexdash": false
